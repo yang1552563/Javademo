@@ -1,5 +1,4 @@
-package objectpractice.nametest;
-import sun.awt.geom.AreaOp;
+package objectpractice.anlilainxi.nametest;
 
 import java.util.Scanner;
 public class NameTest {
@@ -41,6 +40,7 @@ public class NameTest {
                             System.out.println("你的生肖为：" + newshengxiao);
                             System.out.println("你的月份为：" + newyuefen);
                             System.out.println("你的星座为：" + newxingzuo);
+
                         }
               /*              else {//如果没有按照正确的数据类型进行输入，则显示不正确的输入
                                 System.out.println("不正确输入，请重新注册");*/

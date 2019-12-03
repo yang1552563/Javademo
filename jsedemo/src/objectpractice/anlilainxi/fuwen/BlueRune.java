@@ -1,4 +1,4 @@
-package objectpractice.fuwen;
+package objectpractice.anlilainxi.fuwen;
 
 public class BlueRune extends FuWen {
     String maxlife;//最大生命

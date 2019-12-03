@@ -1,4 +1,4 @@
-package objectpractice.nametest;
+package objectpractice.anlilainxi.nametest;
 
 public class Datas {
     String category; //数据类型

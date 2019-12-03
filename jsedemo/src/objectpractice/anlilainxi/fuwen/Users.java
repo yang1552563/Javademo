@@ -1,4 +1,4 @@
-package objectpractice.fuwen;
+package objectpractice.anlilainxi.fuwen;
 
 public class Users {
     private String name;

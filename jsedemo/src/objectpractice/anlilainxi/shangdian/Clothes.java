@@ -1,4 +1,4 @@
-package objectpractice.shangdian;
+package objectpractice.anlilainxi.shangdian;
 
 public class Clothes {
     String price,color,style;

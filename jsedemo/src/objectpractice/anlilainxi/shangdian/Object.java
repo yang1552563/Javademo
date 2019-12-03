@@ -1,4 +1,4 @@
-package objectpractice.shangdian;
+package objectpractice.anlilainxi.shangdian;
 
 import java.util.Scanner;
 public class Object {

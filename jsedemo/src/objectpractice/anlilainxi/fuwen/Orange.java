@@ -1,4 +1,4 @@
-package objectpractice.fuwen;
+package objectpractice.anlilainxi.fuwen;
 
 public class Orange extends FuWen{
     String adHurt;//物理攻击

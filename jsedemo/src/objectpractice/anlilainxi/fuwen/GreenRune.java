@@ -1,4 +1,4 @@
-package objectpractice.fuwen;
+package objectpractice.anlilainxi.fuwen;
 
 public class GreenRune extends FuWen {
     private String cool;//冷却缩减

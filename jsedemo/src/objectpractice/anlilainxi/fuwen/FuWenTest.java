@@ -1,4 +1,4 @@
-package objectpractice.fuwen;
+package objectpractice.anlilainxi.fuwen;
 import java.util.Scanner;
 public class FuWenTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package objectpractice.nametest;
+package objectpractice.anlilainxi.nametest;
 
 public class Users {
     private String name;
